@@ -14,7 +14,7 @@
 
 <p align="center"> $\color{#782b11}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  ℝ𝕖𝕒𝕕 𝕋𝕙𝕖 𝔻𝕠𝕔𝕦𝕞𝕖𝕟𝕥 .}}$ </p>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1cTFBP7tNGvz5eIvu0lWRABGKCNMRoSLkkdr3OlZgZS0/edit?usp=sharing">Document On ACE0FHEART5, by Shanty</a>
+  <a href="https://rentry.co/statementregardingdivinity">Statement On ACE0FHEART5, by Shanty</a>
 </p>
 
 <p align="center"><a href="https://hits.sh/github.com/themagerotsamongstthenightshades/"><img alt="Hits" src="https://hits.sh/github.com/themagerotsamongstthenightshades.svg?style=for-the-badge&label=jackpots%20%3E&extraCount=59343&color=FFDD87&labelColor=462114&logo=bitcoinsv"/></a></p>
