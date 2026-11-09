@@ -14,7 +14,7 @@
   <a href="https://github.com/daggerstruckmage">daggerstruckmage</a>
 </p>
 
-
+<p align="center"><img width="275" height="21" alt="image" src="https://github.com/user-attachments/assets/05364e17-af84-47a1-ab07-a8d43f0da4c5" /></p>
 <p align="center"><img width="458" height="81" alt="image" src="https://github.com/user-attachments/assets/8f178c82-689a-4588-b5bf-18a1f02f4a3c" /></p>
 <p align="center"><img width="258" height="24" alt="Screenshot 2026-11-08 10 22 28 AM" src="https://github.com/user-attachments/assets/8b36f37d-46ee-4385-b1db-d03076c98f29" /></p>
 <p align="center"><img width="432" height="29" alt="image" src="https://github.com/user-attachments/assets/348bdfd4-3e8f-4f8c-a824-4b3a60513f40" /></p>
