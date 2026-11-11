@@ -1,7 +1,7 @@
 <img width="2048" height="726" alt="tumblr_1bcded30f0b5c9cbf69a992558132ce3_5c75da98_2048 (2)" src="https://github.com/user-attachments/assets/316d1373-ae48-45f9-831b-42a54667c837" />
 
 
-<p align="center"> $\color{#1871c5}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  ℝ𝕖𝕒𝕕 𝕋𝕙𝕖 𝔻𝕠𝕔𝕦𝕞𝕖𝕟𝕥 .}}$ </p>
+<p align="center"> $\color{#1871c5}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  Read Her Statement , thank you ! .}}$ </p>
 <p align="center">
   <a href="https://rentry.co/statementregardingdivinity">Statement On ACE0FHEART5 / Puppipilled, by Shanty</a>
 </p>
