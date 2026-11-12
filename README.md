@@ -37,7 +37,7 @@
 <p align="center"> <img width="302" height="22" alt="Screenshot 2026-09-07 10 34 32 PM" src="https://github.com/user-attachments/assets/01608a51-67ad-44d8-a72c-02f55c67384a" /> </p>
 
 
-<p align="center"> $\color{#1871c5}{\text{"ℍ𝕖𝕙. 𝕆𝕙 𝕓𝕠𝕪, 𝕀'𝕞 𝕗𝕝𝕒𝕥𝕥𝕖𝕣𝕖𝕕 𝕓𝕪 𝕥𝕙𝕖 𝕣𝕖𝕨𝕒𝕣𝕕𝕤 𝕒𝕟𝕕 𝕥𝕚𝕥𝕝𝕖𝕤. 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕒𝕝𝕝 𝕧𝕖𝕣𝕪 𝕞𝕦𝕔𝕙."}}$ </p>
+<p align="center"> $\color{#1871c5}{\text{"Me and Silly-Vanilly are quite appreciative of the rewards and titles, thank you~!"}}$ </p>
 
 
 
@@ -96,8 +96,6 @@
 <p align="center"> $\color{#1871c5}{\text{Basic DNI +}}$ </p>
 <p align="center"> $\color{#ba9760}{\text{OTHER DNI:  Pixeldrink fans, Qwel/Rox supporters, Nazi's, Trump Supporters, Generative AI Supporters, etc.}}$ </p>
 
-
-<p align="center">$\color{#1871c5}{\text{"ꫝꫀꫝ, ꪗ'𝕜ꪀꪮ᭙ 𝟡𝟡.𝟡%}}$ </p><p align="center">$\color{#E4BB6B}{\text{ꪮᠻ ᧁꪖꪑ᥇ꪶꫀ𝕣ડ 𝕢uⅈ𝕥 ᥇ꫀᠻꪮ𝕣ꫀ 𝕥ꫝꫀꪗ ᭙ⅈꪀ ᥇ⅈᧁ, ꪖꪀᦔ ⅈ ꪖⅈꪀ'𝕥 ᧁꪮꪀꪀꪖ ᥇ꫀ ꪮꪀꫀ ꪮᠻ ꫀꪑ!"}}$</p>
 
 <!--INFO-->
 <div align="center">
