@@ -44,7 +44,7 @@
 <p align="center"> $\color{#ba9760}{\text{‟ ۫ 𝐀 𝐒α𝗀𝖾 α𐓣ᑯ α 𝐉𝖾𝗌𝗍𝖾𝗋. ! . ⋄ 𓍯  „}}$ </p>
 
 
-<p align="center"> $\color{#1871c5}{\text{〘  he/him/they  〙 greyromantic < (questioning) . aegosexual . genderlfuid .}}$ </p>
+<p align="center"> $\color{#1871c5}{\text{〘  he/him/they  〙 greyromantic < (questioning) . aegosexual . genderfluid .}}$ </p>
 
 
 
