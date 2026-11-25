@@ -6,9 +6,17 @@
 <img width="2048"  alt="tumblr_1bcded30f0b5c9cbf69a992558132ce3_5c75da98_2048 (8)" src="https://github.com/user-attachments/assets/b07f6067-9745-4276-b532-870db97dd933" />
 
 
-<p align="center"> $\color{#1871c5}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  Read Her Statement , thank you ! .}}$ </p>
+<p align="center"> $\color{#1871c5}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  Read For Awareness .}}$ </p>
 <p align="center">
-  <a href="https://rentry.co/statementregardingdivinity">Statement On ACE0FHEART5 / Puppipilled, by Shanty</a>
+  <a href="https://rentry.co/puppipilled5tanny">Statement regarding Housepilled/Puppipilled/ACE0FHEART5</a>
+</p>
+
+<p align="center"> $\color{#1871c5}{\text{𝕌ℝ𝔾𝔼ℕ𝕋  |  + Even More .}}$ </p>
+<p align="center">
+  <a href="https://rentry.co/divinityupdatelog">UPDLog</a>
+</p>
+<p align="center">
+  <a href="https://rentry.co/pinterestinteraction">Interactions</a>
 </p>
 
 <p align="center"><a href="https://hits.sh/github.com/witheringpetals/"><img alt="Hits" src="https://hits.sh/github.com/witheringpetals.svg?style=plastic&label=s%20a%20g%20e%20s%20%20%2F%20%20l%20i%20a%20r%20s%20%20%3E&extraCount=28553&color=ba9760&labelColor=1871c5"/></a></p>
